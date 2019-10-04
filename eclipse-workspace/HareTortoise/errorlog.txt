@@ -1,0 +1,70 @@
+the exception with values occured
+Soory please restart the system
+the exception with values occured
+Sorry please restart the system
+the exception with values occured
+Sorry please restart the system
+error occured
+the exception with values occured
+Sorry please restart the system
+error occured
+2019-08-20 16:05:17,508[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:05:17,509[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:05:17,509[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:05:17,539[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:05:17,539[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:05:17,539[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:05:17,860[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:05:17,861[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:05:17,861[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:06:32,736[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:06:32,736[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:06:32,736[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:06:32,758[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:06:32,759[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:06:32,759[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:07:00,751[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:07:00,752[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:07:00,752[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:07:43,566[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:07:43,566[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:07:43,566[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:07:43,792[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:07:43,793[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:07:43,793[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:09:30,854[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:09:30,854[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:09:30,854[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:11:02,688[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:11:02,688[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:11:02,689[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:11:59,034[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:11:59,035[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:11:59,035[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:13:08,370[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:13:08,371[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:13:08,371[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:16:50,564[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:16:50,565[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:16:50,565[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:16:50,585[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:16:50,586[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:16:50,586[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:17:30,021[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:17:30,022[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:17:30,022[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:17:30,059[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:17:30,060[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:17:30,060[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:18:03,195[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:18:03,196[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:18:03,196[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:19:15,513[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:19:15,513[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:19:15,513[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:38:11,375[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:38:11,375[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:38:11,375[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:39:03,706[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:39:03,706[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:39:03,706[yyyy-mm-dd HH-MM-SS] ERROR error occured

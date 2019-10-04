@@ -1,0 +1,88 @@
+the value of list item is 5
+the method was called with the fallowing arguments
+the library was installed or message from the server
+the library to convert xml weas not found using default
+the exception with values occured
+Sorry please restart the system
+Add completed
+error occured
+Debug message
+this is trace
+Warning message
+the value of list item is 5
+the method was called with the fallowing arguments
+the library was installed or message from the server
+the library to convert xml weas not found using default
+the exception with values occured
+Sorry please restart the system
+Add completed
+error occured
+Debug message
+this is trace
+Warning message
+the value of list item is 5
+the method was called with the fallowing arguments
+the library was installed or message from the server
+the library to convert xml weas not found using default
+the exception with values occured
+Sorry please restart the system
+Add completed
+error occured
+Debug message
+this is trace
+Warning message
+the value of list item is 5
+the method was called with the fallowing arguments
+the library was installed or message from the server
+the library to convert xml weas not found using default
+the exception with values occured
+Sorry please restart the system
+Add completed
+error occured
+Debug message
+this is trace
+Warning message
+the value of list item is 5
+the method was called with the fallowing arguments
+the library was installed or message from the server
+the library to convert xml weas not found using default
+the exception with values occured
+Sorry please restart the system
+Add completed
+error occured
+Debug message
+this is trace
+Warning message
+2019-08-20 16:19:15,510[yyyy-mm-dd HH-MM-SS] TRACE the value of list item is 5
+2019-08-20 16:19:15,512[yyyy-mm-dd HH-MM-SS] DEBUG the method was called with the fallowing arguments
+2019-08-20 16:19:15,513[yyyy-mm-dd HH-MM-SS] INFO  the library was installed or message from the server
+2019-08-20 16:19:15,513[yyyy-mm-dd HH-MM-SS] WARN  the library to convert xml weas not found using default
+2019-08-20 16:19:15,513[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:19:15,513[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:19:15,513[yyyy-mm-dd HH-MM-SS] INFO  Add completed
+2019-08-20 16:19:15,513[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:19:15,515[yyyy-mm-dd HH-MM-SS] DEBUG Debug message
+2019-08-20 16:19:15,515[yyyy-mm-dd HH-MM-SS] TRACE this is trace
+2019-08-20 16:19:15,516[yyyy-mm-dd HH-MM-SS] WARN  Warning message
+2019-08-20 16:38:11,371[yyyy-mm-dd HH-MM-SS] TRACE the value of list item is 5
+2019-08-20 16:38:11,374[yyyy-mm-dd HH-MM-SS] DEBUG the method was called with the fallowing arguments
+2019-08-20 16:38:11,374[yyyy-mm-dd HH-MM-SS] INFO  the library was installed or message from the server
+2019-08-20 16:38:11,375[yyyy-mm-dd HH-MM-SS] WARN  the library to convert xml weas not found using default
+2019-08-20 16:38:11,375[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:38:11,375[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:38:11,375[yyyy-mm-dd HH-MM-SS] INFO  Add completed
+2019-08-20 16:38:11,375[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:38:11,377[yyyy-mm-dd HH-MM-SS] DEBUG Debug message
+2019-08-20 16:38:11,377[yyyy-mm-dd HH-MM-SS] TRACE this is trace
+2019-08-20 16:38:11,377[yyyy-mm-dd HH-MM-SS] WARN  Warning message
+2019-08-20 16:39:03,702[yyyy-mm-dd HH-MM-SS] TRACE the value of list item is 5
+2019-08-20 16:39:03,705[yyyy-mm-dd HH-MM-SS] DEBUG the method was called with the fallowing arguments
+2019-08-20 16:39:03,705[yyyy-mm-dd HH-MM-SS] INFO  the library was installed or message from the server
+2019-08-20 16:39:03,705[yyyy-mm-dd HH-MM-SS] WARN  the library to convert xml weas not found using default
+2019-08-20 16:39:03,706[yyyy-mm-dd HH-MM-SS] ERROR the exception with values occured
+2019-08-20 16:39:03,706[yyyy-mm-dd HH-MM-SS] FATAL Sorry please restart the system
+2019-08-20 16:39:03,706[yyyy-mm-dd HH-MM-SS] INFO  Add completed
+2019-08-20 16:39:03,706[yyyy-mm-dd HH-MM-SS] ERROR error occured
+2019-08-20 16:39:03,708[yyyy-mm-dd HH-MM-SS] DEBUG Debug message
+2019-08-20 16:39:03,708[yyyy-mm-dd HH-MM-SS] TRACE this is trace
+2019-08-20 16:39:03,708[yyyy-mm-dd HH-MM-SS] WARN  Warning message
